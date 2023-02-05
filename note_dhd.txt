@@ -1,0 +1,19 @@
+Thuật toán thay thế trang:
+	Tối thiểu tần suất xảy ra lỗi trang 
+	Đếm số trang lỗi và thay thế
+
+	Thuật toán FIFO (first in - first out): khi trang nào vô trước thì nếu hết chỗ, trang mới vô sẽ thay thế lần lượt vào đúng vị trí thứ tự các trang 
+		trước đó đã vào 
+	Thuật toán thay trang tối ưu (hạn chế, kbiet trong tương lai vị trí các trang thay thế như thế nào)
+	Thuật toán LRU: sẽ thay thế trang ít sử dụng
+
+	Counting Algorithms: đếm trang truy cập bnhiu lần, tìm trang có biến đếm nhỏ nhất để thay thế (hạn chế: trang mới biến counting nhỏ thì thay liền sẽ 
+		gây khó khăn vì sử dụng lại, còn trang nằm lâu thì có counting lớn sẽ không đc thay, mỗi lần chạy phải cập nhật biến count -> gây tốn chi phí)
+	Secong-Chance (clock) Algorithms: 
+
+Thrashing: CPU chạy nhiều chương trình chạy chậm (chỉ làm nhiệm vụ swap trang, k làm lệnh khác), tất cả chương trình đều chậm
+	Working set model: tập trang thường truy cập (những trang hay truy cập > kích thước bộ nhớ)
+	Lợi thế nhiều cpu, cpu có nhiều core 
+
+Tiến trình, đồng bộ, bộ nhớ
+	

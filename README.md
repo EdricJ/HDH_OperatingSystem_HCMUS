@@ -48,3 +48,14 @@ Exams:
 
 * https://www.youtube.com/watch?v=7VMEFjsaBXw&list=PLjl8ZFVwrssLRlbrCLJqGPmnZlNxV3ab5
 
+Lab:
+* https://drive.google.com/drive/folders/0B8wCqYrMs4f8cHh3a2ZsOWNBZ2c?resourcekey=0-IAh52nuuskfdiRQYc1Ndmg
+
+* https://customerconnect.vmware.com/en/downloads/info/slug/desktop_end_user_computing/vmware_workstation_player/15_0
+
+* https://drive.google.com/file/d/0B8wCqYrMs4f8Qm16YUZtZUl4WVE/view?resourcekey=0-lNXE0b9SQI9JLH9iDex9dg
+
+* https://www.youtube.com/watch?v=lZWSMGXhRu4
+
+* https://www.fit.hcmus.edu.vn/~ntquan/os/setup_nachos.html
+
